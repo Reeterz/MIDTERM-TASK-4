@@ -54,3 +54,7 @@
     background-color: aliceblue;
     border: solid 1px black;
 }
+.link{
+    text-decoration: none;
+    cursor: pointer;
+}
